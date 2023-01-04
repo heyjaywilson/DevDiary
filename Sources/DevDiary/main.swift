@@ -25,4 +25,4 @@ struct DevDiary: Website {
 }
 
 // This will generate your website using the built-in Foundation theme:
-try DevDiary().publish(withTheme: .foundation)
+try DevDiary().publish(withTheme: .DDHJCTheme)

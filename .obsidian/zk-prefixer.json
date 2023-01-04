@@ -1,0 +1,5 @@
+{
+  "folder": "Content/posts",
+  "template": "Templates/RandomPage",
+  "format": "YYYY/MM/DD/HHmm"
+}

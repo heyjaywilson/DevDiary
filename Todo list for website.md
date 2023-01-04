@@ -1,0 +1,4 @@
+- [x] Adjust footer to have GitHub repo link and mastodon link
+- [ ] Createan about page
+- [x] Adjust colors to follow a blue based scheme
+- [ ] Add analytics for the site
