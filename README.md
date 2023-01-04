@@ -8,6 +8,10 @@ If you have something you'd like to talk about, then make a [discussion](https:/
 
 What goes in the dev diary? Anything related to cide or my development journey.
 
+## Private files
+
+This repo is set up to ignore local private files in the Private folder. Those need to be backed up/transferred in another way. This allows for the notes to live side by side.
+
 ## Twitch Supporters
 
 - MikaelaCaron 2022-01-03 - Comment
