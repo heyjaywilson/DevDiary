@@ -1,5 +1,5 @@
 ---
-date: 2023-01-03
+date: 2023-01-03 21:45
 description: Notes about netlify and swift
 tags: swift, netlify
 ---
