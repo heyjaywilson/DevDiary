@@ -1,6 +1,5 @@
 ---
 date: {{date}} {{time}}
 description: 
-tags: 
+tags: swift, netlify, AppleMusic, MusicKit
 ---
-

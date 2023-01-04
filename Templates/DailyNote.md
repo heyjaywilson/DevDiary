@@ -1,7 +1,7 @@
 ---
 date: {{date}} {{time}}
-description: Notes about netlify and swift
-tags: swift, netlify
+description: 
+tags: daily
 ---
 
 ## Summary
