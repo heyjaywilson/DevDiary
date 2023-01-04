@@ -1,5 +1,5 @@
 {
-  "format": "YYYY/MM/DD/HHMM",
+  "format": "YYYY/MM/DD/HHMM-YYYY-HH-MM",
   "folder": "Content/posts",
   "template": "Templates/DailyNote",
   "autorun": true

@@ -19,7 +19,7 @@ struct DevDiary: Website {
     // Update these properties to configure your website:
     var url = URL(string: "https://devdiary.heyjay.coffee")!
     var name = "Jay's Dev Diary 🔖"
-    var description = "Random collection of developer things"
+    var description = "A place that notes go to hopefully be useful again one day."
     var language: Language { .english }
     var imagePath: Path? { nil }
 }

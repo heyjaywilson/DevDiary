@@ -3,6 +3,7 @@
 This is my public dev diary. I made a video about why you should have one. This is made to work with Obsidian. If you clone the repo, then you'll be able to launch it exactly like I use it.
 
 >[!danger] There might be broken links due to work links not working.
+> Items can also look weird because I optimize for reading and editing in Obsidian.
 
 If you have something you'd like to talk about, then make a [discussion](https://github.com/heyjaywilson/DevDiary/discussions) for it on GitHub.
 
