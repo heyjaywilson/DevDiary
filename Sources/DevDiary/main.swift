@@ -1,3 +1,6 @@
+/// Twitch Supporters:
+/// - MikaelaCaron 2022-01-03
+
 import Foundation
 import Publish
 import Plot
@@ -15,7 +18,7 @@ struct DevDiary: Website {
 
     // Update these properties to configure your website:
     var url = URL(string: "https://devdiary.heyjay.coffee")!
-    var name = "Jay's Dev Diary"
+    var name = "Jay's Dev Diary 🔖"
     var description = "Random collection of developer things"
     var language: Language { .english }
     var imagePath: Path? { nil }
