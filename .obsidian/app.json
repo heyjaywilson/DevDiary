@@ -1,4 +1,8 @@
 {
   "promptDelete": false,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }

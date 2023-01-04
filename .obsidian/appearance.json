@@ -1,3 +1,5 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "monospaceFontFamily": "MonoLisa script,MonoLisa",
+  "translucency": false
 }
