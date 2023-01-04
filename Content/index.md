@@ -1,1 +1,1 @@
-# Welcome to DevDiary!
+# Developer Diary/Journal/Log
