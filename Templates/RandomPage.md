@@ -1,5 +1,5 @@
 ---
 date: {{date}} {{time}}
 description: 
-tags: swift, netlify, AppleMusic, MusicKit
+tags: Swift, Netlify, AppleMusic, MusicKit, SwiftUI, CoreData
 ---
