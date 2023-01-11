@@ -3,6 +3,8 @@ date: 2023-01-10 22:48
 description: 
 tags: SwiftUI
 ---
+# Aspect Ratios in SwiftUI
+
 Aspect Ratios can be used on most views in SwiftUI
 
 ```swift
