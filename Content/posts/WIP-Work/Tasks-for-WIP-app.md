@@ -1,7 +1,7 @@
 ---
 date: 2023-01-18 21:05
 description: 
-tags: Swift, WIP-App
+tags: Swift, WIPApp
 ---
 # Tasks for WIP app
 - [ ] Implement Auth using [passkeys](https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys)
